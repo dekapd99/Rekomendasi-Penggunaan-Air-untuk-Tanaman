@@ -4,11 +4,16 @@ Hal yang dibutuhkan:
 1. Python 3.8.2
 2. Library scikit-learn, pandas, dan xlrd. 
 Install dengan mengetikan command berikut:
+
 $ pip install numpy
+
 $ pip install scikit-learn
+
 $ pip install pandas
+
 $ pip install xlrd
 
 Cara menjalankan:
 Ketikan command 
+
 $ python program.py
